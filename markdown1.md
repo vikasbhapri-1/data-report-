@@ -60,7 +60,7 @@
 - **Smoke & CO₂**: Detectable but not specific calibration available  
 - **Preheat Time**: > 24 hours recommended for stable readings  
  
-![array](https://www.researchgate.net/publication/347946855/figure/fig2/AS:1042149525164032@1625479217167/MQ135-PPM-Conversion-Graph-taken-from.ppm)
+![array](https://www.researchgate.net/publication/340403886/figure/fig2/AS:876218752712712@1585918238407/MQ2-graph-from-the-datasheet_Q640.jpg)
 
 **Working Principle**:  
 - The sensor’s conductivity increases with the concentration of target gases.  
@@ -88,3 +88,4 @@
 
 ## ✅ Summary  
 The **MQ135 Gas Sensor** is a low-cost, durable, and widely used semiconductor sensor designed for **air quality detection**. It detects multiple harmful gases including **NH₃, CO₂, benzene, alcohol, and smoke**, with both **analog concentration output** and **digital alarm output**. Requires calibration and preheating for accurate readings.
+
